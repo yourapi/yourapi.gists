@@ -1,0 +1,91 @@
+[{
+    "teacher_firstname": "Carolyne",
+    "teacher_lastname": "Amini",
+    "teacher_birthdate": "1956-07-16",
+    "student_firstname": "Neil",
+    "student_lastname": "Bradshaw",
+    "student_birthdate": "1953-12-23",
+    "subject_name": "Math",
+    "subject_level": 4
+},{
+    "teacher_firstname": "Catherine",
+    "teacher_lastname": "Bray",
+    "teacher_birthdate": "1966-06-02",
+    "student_firstname": "Wayne",
+    "student_lastname": "Cook",
+    "student_birthdate": "1986-01-27",
+    "subject_name": "Literature",
+    "subject_level": 3
+},{
+    "teacher_firstname": "Letitia",
+    "teacher_lastname": "Cooper",
+    "teacher_birthdate": "1964-12-17",
+    "student_firstname": "Martin",
+    "student_lastname": "Copley",
+    "student_birthdate": "1953-05-30",
+    "subject_name": "Coding 101",
+    "subject_level": 5
+},{
+    "teacher_firstname": "Katherine",
+    "teacher_lastname": "Davison",
+    "teacher_birthdate": "1951-02-20",
+    "student_firstname": "Philip",
+    "student_lastname": "Elliott",
+    "student_birthdate": "1990-03-22",
+    "subject_name": "Engineering",
+    "subject_level": 1
+},{
+    "teacher_firstname": "Ietzhack",
+    "teacher_lastname": "Gross",
+    "teacher_birthdate": "1961-03-10",
+    "student_firstname": "Felisa",
+    "student_lastname": "Encarnacion",
+    "student_birthdate": "1940-12-07",
+    "subject_name": "History",
+    "subject_level": 3
+},{
+    "teacher_firstname": "Danielle",
+    "teacher_lastname": "Howarth",
+    "teacher_birthdate": "1948-05-03",
+    "student_firstname": "Brian",
+    "student_lastname": "Gray",
+    "student_birthdate": "1958-01-15",
+    "subject_name": "Theology",
+    "subject_level": 2
+},{
+    "teacher_firstname": "Ian",
+    "teacher_lastname": "Cooper",
+    "teacher_birthdate": "1956-11-21",
+    "student_firstname": "Joseph",
+    "student_lastname": "Holly",
+    "student_birthdate": "1982-03-10",
+    "subject_name": "English language",
+    "subject_level": 4
+},{
+    "teacher_firstname": "Jayne",
+    "teacher_lastname": "Sinclair",
+    "teacher_birthdate": "1975-10-30",
+    "student_firstname": "Arshed",
+    "student_lastname": "Mohammed",
+    "student_birthdate": "1945-06-28",
+    "subject_name": "Biology",
+    "subject_level": 3
+},{
+    "teacher_firstname": "Melvin",
+    "teacher_lastname": "Welch",
+    "teacher_birthdate": "1947-12-11",
+    "student_firstname": "Leonard",
+    "student_lastname": "Pattison",
+    "student_birthdate": "1964-03-16",
+    "subject_name": "Physics",
+    "subject_level": 5
+},{
+    "teacher_firstname": "Peter",
+    "teacher_lastname": "White",
+    "teacher_birthdate": "1960-10-23",
+    "student_firstname": "Ann",
+    "student_lastname": "Wood",
+    "student_birthdate": "1989-10-09",
+    "subject_name": "Sociology",
+    "subject_level": 1
+}]
